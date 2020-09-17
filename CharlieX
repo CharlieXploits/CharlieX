@@ -2,7 +2,7 @@
 
 local p = game:GetService("Players").LocalPlayer
 Ranked = {
-	["lol"] = {["Name"] = "lol"};
+	["lolbulle12323"] = {["Name"] = "lolbulle12323"};
 
 
 
